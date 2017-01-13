@@ -10,3 +10,15 @@ Unite::~Unite()
 {
     //dtor
 }
+
+bool Unite::deplacer(){
+    if(faction == 1){
+        if(position.getSuivant.estFranchissable && unite.suivant.estVide())
+        {
+
+        }
+    }
+
+}
+
+

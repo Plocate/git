@@ -1,5 +1,6 @@
 #include "Fantassin.h"
 
+
 Fantassin::Fantassin(Case position_, int faction_) :
     Unite(position, CaracteristiqueJeu.prixFantassin(), 1,
           faction_, CaracteristiqueJeu.paFantassin(), int CaracteristiqueJeu.pvFantassin())
